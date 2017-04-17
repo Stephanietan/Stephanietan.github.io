@@ -16,6 +16,15 @@ body {
   margin: 100px auto;
 }
 
+.headline {
+  text-align: center;
+
+}
+
+.hi {
+ float: left;
+}
+
 .fa {
   font-size: 30px;
 }
